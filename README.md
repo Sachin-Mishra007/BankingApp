@@ -1,22 +1,22 @@
 <h1>Banking App</h1>
 <p>A simple banking app rest api created with Java Spring Boot .</br>
 Tech Stack Used
-<li>
-    <ul>Java</ul>
-    <ul>Spring Boot</ul>
-    <ul>MySql</ul>
+<ul>
+    <li>Java</li>
+    <li>Spring Boot</li>
+    <li>MySql</li>
   
-</li>
+</ul>
 
 </br>
 <p>
   Functionalities
-  <li>
-    <ul>create account</ul>
-    <ul>View all account</ul>
-    <ul>Deposit</ul>
-    <ul>Withdraw</ul>
-    <ul>Delete Account</ul>
-  </li>
+  <ul>
+    <li>create account</li>
+    <li>View all account</li>
+    <li>Deposit</li>
+    <li>Withdraw</li>
+    <li>Delete Account</li>
+  </ul>
 </p>
 </p>
